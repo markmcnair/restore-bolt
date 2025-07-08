@@ -92,6 +92,7 @@
                  Give Online
                </a>
              </div>
+}
 -            <div className="bg-white p-6 rounded-lg shadow-md">
 -              <h3 className="text-2xl font-semibold text-brown mb-4">CashApp</h3>
 -              <p className="text-dark mb-4">
@@ -110,6 +111,7 @@
          {
            name: "Carijona",
            image: "/images/carijona.jpg",
+         }
 -          videoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 +          videoUrl: "https://youtube.com/shorts/Qo59Igx1qRM?feature=share",
            description: "The Carijona people live in the Amazon rainforest region of Colombia. They have maintained their traditional way of life while facing modern challenges.",
