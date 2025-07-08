@@ -102,7 +102,6 @@
 -                <p className="text-lg font-semibold text-sage text-center">
 -                  $PrayAndPourColombia
 -                </p>
--              </div>
            </div>
          </div>
        </div>
