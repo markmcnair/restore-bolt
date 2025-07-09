@@ -101,7 +101,6 @@
 -              <div className="bg-sage/10 p-4 rounded-lg">
 -                <p className="text-lg font-semibold text-sage text-center">
 -                  $PrayAndPourColombia
--                </p>
            </div>
          </div>
        </div>
